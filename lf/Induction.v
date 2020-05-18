@@ -244,8 +244,8 @@ Lemma double_plus : forall n, double n = n + n .
 Proof.
   (* FILL IN HERE *)
   intros n. induction n as [|n' IHn'].
-  -simpl. reflexivity. 
-  -simpl. rewrite -> IHn'. rewrite <- plus_n_Sm. reflexivity. Qed.
+  - simpl. reflexivity. 
+  - simpl. rewrite -> IHn'. rewrite <- plus_n_Sm. reflexivity. Qed.
 
 (** [] *)
 
