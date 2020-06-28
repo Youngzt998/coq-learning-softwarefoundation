@@ -6,4 +6,4 @@ https://softwarefoundations.cis.upenn.edu/
 
 Current Process:
 Volume 1 Logical Foundations
-  Still Learning "imp.v"
+  Still Learning "imp.v" but can theoretically understand most of them. 
